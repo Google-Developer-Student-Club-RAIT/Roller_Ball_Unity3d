@@ -127,7 +127,7 @@ git push -u origin <your_branch_name>
 
 ### Contact
 
-Maintainer : uskaNaam@gmail.com
+Maintainer : jadhavAkshay0701@gmail.com
 
 ## LICENSE
 Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
