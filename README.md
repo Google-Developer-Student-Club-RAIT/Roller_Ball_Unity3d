@@ -2,7 +2,7 @@
 ![](images/linkedbanner2.png)
 
 ## Information 
-Rentail car system is application built to provide seller a platform to sell thier cars to users effortlessly. If you are interested in contributing to make this project then please follow [code-style](#code-style) and [contribution steps](#step-to-contribute).
+Simple rollar ball game built with unity3d game development engine. If you are interested in contributing to make this project then please follow [code-style](#code-style) and [contribution steps](#step-to-contribute).
 
 ## Installation
 
@@ -15,26 +15,13 @@ Rentail car system is application built to provide seller a platform to sell thi
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Google-Developer-Student-Club-RAIT/RentalCarSystem_Mobile
+https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d
 ```
 
 **Step 2:**
 
-Open Android Studio and Go to project root and build the project from top-left toolbar: 
+Open it in the Unity IDE.
 
-```
-Build -> Make Project
-```
-
-**Step 3:**
-
-then click on play button(top-right) to run the application:
-
-or if you get any error in gradle then execute following option:
-
-```
-  file -> Invalidate Caches / Restart
-```
 
 </p>
 </details>
@@ -53,24 +40,24 @@ or if you get any error in gradle then execute following option:
 <details><summary>Click here</summary>
 <p>
 
-**1.**  Fork [this](https://github.com/Google-Developer-Student-Club-RAIT/RentalCarSystem_Mobile) repository.
+**1.**  Fork [this](https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/Google-Developer-Student-Club-RAIT/RentalCarSystem_Mobile
+git clone https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd RentalCarSystem_Mobile
+cd Roller_Ball_Unity3d
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Google-Developer-Student-Club-RAIT/RentalCarSystem_Mobile
+git remote add upstream https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d
 ```
 
 **5.** Check the remotes for this repository.
