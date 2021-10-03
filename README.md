@@ -15,7 +15,7 @@ Simple rollar ball game built with unity3d game development engine. If you are i
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d
+https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d.git 
 ```
 
 **Step 2:**
@@ -45,7 +45,7 @@ Open it in the Unity IDE.
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d
+git clone https://github.com/Google-Developer-Student-Club-RAIT/Roller_Ball_Unity3d.git 
 ```
 
 **3.** Navigate to the project directory :file_folder: .
